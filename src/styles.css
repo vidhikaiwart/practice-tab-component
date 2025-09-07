@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.h-container{
+  display:flex;
+}
+.h{
+  padding:5px;
+  border:1px solid black;
+  cursor:pointer;
+}
+.t-body{
+  border: 1px solid black;
+  display:flex;
+  height:150px;
+  padding:5px;
+}
+.error{
+  color:red;
+  display:block;
+  font-size:small;
+}
